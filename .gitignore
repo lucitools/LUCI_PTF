@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+*.lock
+
+# Config / User settings files
+config.xml
+user_settings.xml
